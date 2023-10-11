@@ -1,0 +1,36 @@
+.content-form {
+  padding-top: 40px;
+  background: #d1bead;
+  padding: 20px 0px 50px 20px;
+}
+
+form div {
+  margin-bottom: 25px;
+}
+
+label {
+  display: block;
+  font-size: 1.5rem;
+}
+
+input[type="text"] {
+  height: 30px;
+  width: 400px;
+  border: none;
+  border-bottom: 1px solid rgb(140, 0, 255);
+  background: none;
+}
+
+input[type="text"]:focus {
+  outline: none;
+}
+
+input[type="submit"] {
+  margin-top: 20px;
+  background: #516aa7;
+  color: #fff;
+  padding: 20px;
+  font-size: 1.5rem;
+  border: none;
+  cursor: pointer;
+}
