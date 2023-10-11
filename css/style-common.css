@@ -47,3 +47,14 @@ section p {
   font-size: 2rem;
   margin: 0px;
 }
+
+footer {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+footer img {
+  width: 150px;
+}
