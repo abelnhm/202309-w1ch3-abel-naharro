@@ -45,10 +45,6 @@ article:last-of-type {
   padding-bottom: 20px;
 }
 
-label:nth-child() {
-  text-decoration: line-through;
-}
-
 main > div {
   height: 100px;
   font-size: 1.7rem;
